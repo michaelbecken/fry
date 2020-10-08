@@ -2,7 +2,7 @@
 layout: post
 title: TEST01
 photos:
-  space1: assets/2015027.jpg
+  space1: /assets/2015027.jpg
   space2: http://68.media.tumblr.com/76004d1b5febab49b91f8df70c18776a/tumblr_oihketGkVJ1sfie3io1_1280.jpg
   space3: http://68.media.tumblr.com/ea2f68c3776b80d98349b0848424a7b3/tumblr_nxysuwhpak1sfie3io1_1280.jpg
   space4: http://68.media.tumblr.com/4bcb6e7ce150bce6b205d5ed0ee7a262/tumblr_o96r8dKcJq1sfie3io1_1280.jpg
